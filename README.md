@@ -1,7 +1,8 @@
+Intelligent Name Validation System
+
 <img width="1882" height="850" alt="image" src="https://github.com/user-attachments/assets/f53ea570-af71-4475-91cf-5437444f3cf8" />
 
 
-Intelligent Name Validation System
 Overview
 
 I developed an advanced intelligent system for validating personal names, powered by a custom-trained GPT-4 AI model specifically tailored for this task. The system evaluates user-provided names and assigns a numerical score ranging from 0 to 100, indicating the likelihood that the name is real or fake.
