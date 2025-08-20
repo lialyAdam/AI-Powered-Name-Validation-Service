@@ -1,3 +1,6 @@
+<img width="1882" height="850" alt="image" src="https://github.com/user-attachments/assets/f53ea570-af71-4475-91cf-5437444f3cf8" />
+
+
 Intelligent Name Validation System
 Overview
 
